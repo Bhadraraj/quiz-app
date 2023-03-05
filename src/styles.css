@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+@import '../node_modules/font-awesome/css/font-awesome.css';
+
+li{
+    justify-content: space-between;
+    border: 1px solid grey;
+    border-radius: 10px;
+    align-items: center;
+
+}
